@@ -1,0 +1,58 @@
+package com.library_management.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.library_management.dao.BooksDao;
+import com.library_management.dto.Books;
+import com.library_management.exception.IdNotFoundException;
+
+@Service
+public class BooksServiceImpl implements BooksService<Books>
+{
+	@Autowired(required=true)
+	private BooksDao booksDao;
+
+	@Override
+	public Books saveBook(Books books) {
+		
+		return booksDao.save(books);
+	}
+
+	@Override
+	public List<Books> getBooksDetails() {
+		return booksDao.findAll();
+	}
+
+	@Override
+	public String getBookById(int id) //throws IdNotFoundException
+	{
+		Optional<Books> opt = booksDao.findById(id);
+		if(opt.isPresent())
+		{
+			 opt.get();
+			 return "Successfull";
+		}
+		else
+		{
+			try
+			{
+			throw new IdNotFoundException("Book with id "+id+" does not exist in the library");
+			}
+			catch(IdNotFoundException e)
+			{
+				return e.getMessage();
+			}
+		}
+	}
+
+	@Override
+	public void deleteBookById(int id) {
+		booksDao.deleteById(id);;
+	}
+
+	
+}

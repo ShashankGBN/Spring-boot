@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\Shashank\git\Spring-MVC-JSP-CRUD\.git"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/TaherKing/bacupingproject.git"/>
+		<item value="https://github.com/Millstack/Spring-MVC-JSP-CRUD.git"/>
+		<item value="https://github.com/stefanycos/spring-boot-microservices.git"/>
+		<item value="https://github.com/javaHelper/Java-Microservices-with-Spring-Cloud-Developing-Services.git"/>
+		<item value="https://github.com/javatodev/internet-banking-concept-microservices.git"/>
+		<item value="https://github.com/abdulwaheed18/spring-boot-microservices.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+</section>

@@ -1,0 +1,5 @@
+package com.userregistration.dto;
+
+public class User {
+
+}

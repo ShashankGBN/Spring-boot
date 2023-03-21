@@ -1,0 +1,13 @@
+package com.library_management.exception;
+
+public class ErrorResponse 
+{
+	private int statusCode;
+	private String message;
+	
+	ErrorResponse(String message)
+	{
+		super();
+		this.message=message;
+	}
+}

@@ -1,0 +1,41 @@
+package student.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import student.dao.StudentRegistrationDAO;
+import student.dto.StudentRegistrationDTO;
+
+@WebServlet("/search")
+public class StudentRegistrationController extends HttpServlet
+{
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
+	{
+		String stu_Id = req.getParameter("stu_Id");
+		
+		StudentRegistrationDAO dao = new StudentRegistrationDAO();
+		try {
+			StudentRegistrationDTO dto = dao.getStudentDTO(Integer.parseInt(stu_Id));
+			
+			resp.setContentType("viewbyid");
+			
+			PrintWriter pw = resp.getWriter();
+			pw.print("ID :"+ dto.getStu_Id());
+			pw.print("Name :"+ dto.getStu_Name());
+			pw.print("Branch :"+ dto.getBranch());
+			pw.print("Contact :"+ dto.getContact());
+			pw.print("Email :"+ dto.getEmail());
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+}

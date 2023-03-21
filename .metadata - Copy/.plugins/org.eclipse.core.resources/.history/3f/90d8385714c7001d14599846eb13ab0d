@@ -1,0 +1,19 @@
+package service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import entity.User;
+import repository.UserRepository;
+
+public class ServiceImpl implements Service<User>{
+
+	@Autowired
+	UserRepository repo;
+	
+	@Override
+	public User save(User user)
+	{
+		return repo.save(user);
+	}
+	
+}

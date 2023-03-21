@@ -1,0 +1,44 @@
+1677131890194	Delete element
+1677138658129	Delete element
+1677138662833	Delete element
+1677138668279	Delete element
+1677139409742	Delete element
+1677147447754	Delete element
+1677147453949	Delete element
+1677147460286	Delete element
+1677147466601	Delete element
+1677147476731	Delete element
+1677147851061	Encapsulate field 'id'
+1677147910492	Encapsulate field 'name'
+1677147915691	Encapsulate field 'email'
+1677148169809	Encapsulate field 'contact'
+1677221435721	Encapsulate field 'id'
+1677221445433	Encapsulate field 'name'
+1677221450202	Encapsulate field 'email'
+1677221454463	Encapsulate field 'salary'
+1677221516952	Encapsulate field 'id'
+1677221521555	Encapsulate field 'name'
+1677221526251	Encapsulate field 'email'
+1677222806934	Encapsulate field 'name'
+1677222811994	Encapsulate field 'email'
+1677223151371	Move 'editstudent.jsp' to 'extraOperations'
+1677223156094	Move 'deletestudent.jsp' to 'extraOperations'
+1677223160721	Move 'createstudent.jsp' to 'extraOperations'
+1677233755352	Delete element
+1677233772052	Move 'createstudent.jsp' to 'webapp'
+1677233775982	Move 'deletestudent.jsp' to 'webapp'
+1677233779572	Move 'editstudent.jsp' to 'webapp'
+1677233788157	Delete element
+1677234125410	Move file
+1677234131679	Move compilation unit
+1677234138800	Move compilation unit
+1677234144872	Move compilation unit
+1677234151190	Move compilation unit
+1677234157315	Move compilation unit
+1677234164390	Move compilation unit
+1677234176214	Move compilation unit
+1677234194711	Move 'editstudent.jsp' to 'webapp'
+1677234228612	Delete element
+1677295054651	Move 'createstudent.jsp' to 'extra'
+1677295058364	Move 'deletestudent.jsp' to 'extra'
+1677295064823	Move 'editstudent.jsp' to 'extra'

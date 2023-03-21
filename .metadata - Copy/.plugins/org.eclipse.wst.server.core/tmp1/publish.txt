@@ -1,0 +1,9 @@
+#Tomcat publish data
+#Mon Mar 20 15:19:32 IST 2023
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\springframework\\spring-web\\5.3.15\\spring-web-5.3.15.jar=WEB-INF/lib/spring-web-5.3.15.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\springframework\\spring-web\\5.3.13\\spring-web-5.3.13.jar=WEB-INF/lib/spring-web-5.3.13.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\10.1.5\\tomcat-embed-el-10.1.5.jar=WEB-INF/lib/tomcat-embed-el-10.1.5.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\10.1.5\\tomcat-embed-websocket-10.1.5.jar=WEB-INF/lib/tomcat-embed-websocket-10.1.5.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\springframework\\spring-web\\6.0.6\\spring-web-6.0.6.jar=WEB-INF/lib/spring-web-6.0.6.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Shashank\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=WEB-INF/lib/spring-web-5.1.1.RELEASE.jar

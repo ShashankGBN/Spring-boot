@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\J2EE\SpringHello\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="D:\J2EE\SpringStudentRegistration\src\main\java"/>
+			<item value="D:\Spring Boot\Spring MVC"/>
+			<item value="D:\J2EE\spring_core\src\main\java\CarEngine\CarDriver.java"/>
+			<item value="D:\JavaTrainingTasks"/>
+			<item value="D:\J2EE\MyFirst_JDBC_Project\src\main\java\Demo\InsertingData.java"/>
+			<item value="D:\J2EE\DynamicReading\src\main\java\Demo2"/>
+			<item value="D:\J2EE\SpringDemo\pom.xml"/>
+			<item value="D:\J2EE\mapping\src\main\java\OneToManyMapping\HospitalDriver.java"/>
+			<item value="D:\J2EE\hibernate_demo\pom.xml"/>
+			<item value="D:\J2EE\hibernate_demo\src\main\java\hibernate_demo\UpdateDriver.java"/>
+			<item value="D:\J2EE\EmployeeManagementSystem\src\main\java\DAO\EmployeeDao.java"/>
+			<item value="D:\J2EE\DynamicReading\src\main\java\Demo2\DeletingValuesDynamically.java"/>
+			<item value="D:\J2EE\MyFirst_JDBC_Project\src\main\java\Demo\FetchingData.java"/>
+			<item value="D:\J2EE\Demo_projectname\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.ApiLayer"/>
+		</list>
+		<list key="groupId">
+			<item value="com"/>
+		</list>
+		<list key="artifactId">
+			<item value="ApiLayer"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com"/>
+		</list>
+		<list key="name">
+			<item value="ApiLayer"/>
+			<item value="ServiceLayer"/>
+			<item value="DataLayer"/>
+			<item value="helloApi"/>
+			<item value="helloService"/>
+			<item value="helloAPI"/>
+			<item value="HelloAPILayer"/>
+			<item value="helloo"/>
+			<item value="hellooo"/>
+			<item value="helloworldwar"/>
+		</list>
+		<list key="artifactId">
+			<item value="ApiLayer"/>
+			<item value="helloworld"/>
+			<item value="ServiceLayer"/>
+			<item value="DataLayer"/>
+			<item value="helloApi"/>
+			<item value="hello"/>
+			<item value="helloService"/>
+			<item value="helloData"/>
+			<item value="helloAPI"/>
+			<item value="helloo"/>
+			<item value="hellooo"/>
+			<item value="helloworldwar"/>
+			<item value="helloworldd"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Shashank\Downloads\helloworld"/>
+			<item value="C:\Users\Shashank\Downloads\hello"/>
+			<item value="C:\Users\Shashank\Downloads\userregistration"/>
+			<item value="C:\Users\Shashank\Downloads\user_registrastion"/>
+			<item value="C:\Users\Shashank\Downloads\demooo"/>
+			<item value="C:\Users\Shashank\Downloads\SpringBootHelloWorld"/>
+			<item value="C:\Users\Shashank\Downloads\demo"/>
+			<item value="C:\Users\Shashank\Downloads\library_management\library_management"/>
+			<item value="C:\Users\Shashank\Downloads\Bosch_AIC_backend\Bosch_vc_backend\Bosch_vc_backend"/>
+			<item value="C:\Users\Shashank\Downloads\Bosch_AIC_backend"/>
+			<item value="D:\Git\Spring-MVC-CRUD"/>
+			<item value="D:\Git\Spring-MVC-JSP-CRUD"/>
+			<item value="D:\Git\Spring MVC sample project\Spring-MVC-JSP-CRUD"/>
+			<item value="D:\J2EE\StudentRegistration"/>
+			<item value="C:\Users\Shashank\Downloads\SpringMVCCRUDSimple"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="ApiLayer"/>
+			<item value="ServiceLayer"/>
+			<item value="DataLayer"/>
+			<item value="helloApi"/>
+			<item value="helloService"/>
+			<item value="helloData"/>
+			<item value="helloAPI"/>
+			<item value="helloo"/>
+			<item value="hellooo"/>
+			<item value="helloworldwar"/>
+			<item value="helloworldd"/>
+			<item value="helloworldservice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
